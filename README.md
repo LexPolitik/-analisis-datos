@@ -1,6 +1,6 @@
-Prueba técnica – Análisis de datos
+desarrollo técnica – Análisis de datos
 
-Este repositorio contiene el desarrollo de una prueba técnica de análisis de datos, organizada en dos tareas independientes, a partir de información pública relevante para el análisis de violaciones graves a derechos humanos en México.
+Este repositorio contiene el desarrollo de análisis de datos, organizada en dos tareas independientes, a partir de información pública relevante para el análisis de violaciones graves a derechos humanos en México.
 
 📅 Diciembre de 2025
 
