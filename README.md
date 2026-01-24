@@ -1,4 +1,4 @@
-desarrollo técnica – Análisis de datos
+Desarrollo técnico – Análisis de datos
 
 Este repositorio contiene el desarrollo de análisis de datos, organizada en dos tareas independientes, a partir de información pública relevante para el análisis de violaciones graves a derechos humanos en México.
 
